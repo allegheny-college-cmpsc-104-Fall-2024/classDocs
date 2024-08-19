@@ -15,7 +15,8 @@
 - Office Hours:
   - M/F 11:00am-12:00pm, 2:25pm-3:25pm (Alden Hall 105)
   - W 11:00am-12:00pm (Alden Hall 105)
-  - By appointment: 
+  - Tue 12:00pm-1:00pm (Google Meeting)
+- By appointment: 
     - Schedule [here for in-person meeting](https://calendar.app.google/FbwXmgPGg5XaeYkH7) 
     - Schedule [here for virtual meeting](https://calendar.app.google/VcnX1gKJNnB2uCbs6 )
 
