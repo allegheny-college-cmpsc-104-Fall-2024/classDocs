@@ -50,15 +50,6 @@ For more information, refer to [Distribution Requirements: Learning Outcomes](ht
 ## Required Hardware
 A WIFI-ready device is necessary to follow along with course material. You will be instructed on which software to install on your device during the semester.
 
-## Discord
-- If you are already on the department's Discord server, you will be added to the course's Discord channel `#doc-engineering`.
-- If not, join the department's Discord server before you can be added to the course's channel.
-- During the first week, your name will be manually added to the class's Discord channel.
-
-## ClassDocs Repository
-All materials provided in class will be accessible using the classDocs/ repository.  
-Main site on GitHub: [classDocs](https://github.com/allegheny-college-cmpsc-104-Fall-2024/classDocs)
-
 ## Grading
 
 ### Grading Components
@@ -88,7 +79,6 @@ Main site on GitHub: [classDocs](https://github.com/allegheny-college-cmpsc-104-
 - **Class Participation**: Regular participation in class activities is essential for your success in this course. Class participation will be based on your active participation in every class through in-class discussion and exercises. 
 - **Exams**: One mid-term exam administered in person. All work submitted for exam must be yours alone. Discussing exam questions with anyone during the exam period violates academic integrity expectations for this course. Note that no make-up exam will be given and absence from the exam will be recorded as a zero, unless the absence is excused by a documented emergency or religious observance.
 - **Laboratory Assignments**: There will be a total of 10 Lab assignments, due via Github Classroom by 11:59 PM on the given due date. **Late assignments will not be accepted**. Feel free to collaborate in discussing approaches and answers to the problems in small groups. However, each student should turn in a separate, individually prepared set of answers. 
-  - **Assignment Submissions**. You will use git to submit your work. If you require help, please see your instructor and the Technology Leaders.
 - **Final Project**: The final project requires you to apply the cumulative knowledge and skills from the course to produce a comprehensive set of documentation for a software project. This project will involve creating user manuals, technical architecture documents, and deploying these documents via a JAMstack-powered website. Additionally, you will set up a system that automatically updates and redeploys the documentation whenever changes are made. The project will be assessed on completeness, accuracy, adherence to industry standards, clarity, and the effectiveness of the automated update process. Students must submit individual work along with personal reflections on the process.
 
 ## Tentative Schedule (Subject to Change)
@@ -105,6 +95,51 @@ Main site on GitHub: [classDocs](https://github.com/allegheny-college-cmpsc-104-
 | **HTML** | Weeks 12-13 | Assignment #9 due 11/22 |
 | **Metadata** | Week 14 | Assignment #10 due 12/6, Final Project due TBD |
 | **Final Exam** | TBD | TBD |
+
+## Github Account and Lab Assignments
+To participate in lab assignments and access course materials, you will need a GitHub account. Please follow these steps:
+
+1. **Sign Up for GitHub**
+   - Go to [GitHub](https://github.com/) and sign up for an account if you do not already have one.
+   - Make sure to use your Allegheny College email address (`@allegheny.edu`) when signing up, as this will be required to link your account to the course.
+   - Be sure to add a current photo of yourself when completing your profile. Adding this photo will help your instructor to get to know you and your work, and to attribute the correct grades for your submitted work to you.
+
+2. **Link Your GitHub Account to the Course**
+   - Once you have created your GitHub account, you will receive an invitation link when the first lab assignment is ready.
+   - Click on the invitation link and follow the instructions to link your GitHub account to the course.
+   - After accepting this initial invitation, you will automatically have access to all future lab assignments.
+
+3. **Accessing Lab Assignments**
+   - After linking your GitHub account, you will be able to access all lab assignments through GitHub Classroom.
+   - Each lab will be distributed as a separate GitHub repository, where you will complete and submit your work.
+
+If you encounter any issues while creating your GitHub account or linking it to the course, please reach out to the instructor or TLs for assistance.
+
+## Clone Your Assignment Repository
+When you are assigned a lab or project, you will be given your own repository containing the necessary materials. This repository is where you will complete your work. You will save your files locally on your computer and then push them to GitHub, where your instructor can review and grade your submissions.
+
+To clone the repository, use the following Git command: 
+```
+git clone <repository_url>
+```
+To stay organized, create a directory on your computer for this course and place all your assignment repositories inside it. After you’ve completed and pushed your work to GitHub, it will be safely stored in the cloud, and you can access it anytime from anywhere.
+
+## Submitting Your Work
+Use GitHub to submit your work. The following commands will help you do this:
+```
+git add .
+git commit -m "add meaningful commit message"
+git push
+```
+
+## Discord
+- If you are already on the department's Discord server, you will be added to the course's Discord channel `#doc-engineering`.
+- If not, join the department's Discord server before you can be added to the course's channel.
+- During the first week, your name will be manually added to the class's Discord channel.
+
+## ClassDocs Repository
+All materials provided in class will be accessible using the classDocs/ repository.
+Main site on GitHub: [classDocs](https://github.com/allegheny-college-cmpsc-104-Fall-2024/classDocs)
 
 ## Course Policies
 
