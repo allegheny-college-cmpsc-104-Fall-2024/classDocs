@@ -94,7 +94,7 @@ A WIFI-ready device is necessary to follow along with course material. You will 
 | **JAMstack** | Weeks 10-11 | Assignment #8 due 11/8 |
 | **HTML** | Weeks 12-13 | Assignment #9 due 11/22 |
 | **Metadata** | Week 14 | Assignment #10 due 12/6, Final Project due TBD |
-| **Final Exam** | TBD | TBD |
+| **Final Project** | TBD | TBD |
 
 ## Github Account and Lab Assignments
 To participate in lab assignments and access course materials, you will need a GitHub account. Please follow these steps:
