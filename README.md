@@ -18,7 +18,7 @@
   - Tue 12:00pm-1:00pm (Google Meet)
 - By appointment: 
     - Schedule [here for in-person meeting](https://calendar.app.google/FbwXmgPGg5XaeYkH7) 
-    - Schedule [here for virtual meeting](https://calendar.app.google/VcnX1gKJNnB2uCbs6 )
+    - Schedule [here for virtual meeting](https://calendar.app.google/VcnX1gKJNnB2uCbs6)
 
 ## Course Description
 An introduction to the creation of effective documents and documentation using industry-standard approaches to creating and treating "documentation as code". Through project-based and hands-on activities, students create purpose-driven digital writing, emphasizing the forms, formats, and conventions expected in contemporary technical communication. Students also gain experience in creating collaborative and ethically-consistent content within a team-based setting. During a weekly laboratory session, students employ contemporary software tools to complete technical documentation projects, reporting their results through written reflections and oral presentations.
