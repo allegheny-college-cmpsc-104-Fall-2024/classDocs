@@ -40,7 +40,7 @@ For more information, refer to [Distribution Requirements: Learning Outcomes](ht
 
 | Course Objectives | Assessment Method |
 |-------------------|-------------------|
-| Objective 1, 2, 3, 4, 5, and 6 | Exams & Projects|
+| Objective 1, 2, 3, and 4 | Exams & Projects|
 
 - **Objective 1**: Describe and explain processes such as software installation or design for a variety of technical and non-technical audiences ranging from inexperienced to expert.
 - **Objective 2**: Use professional-grade integrated development environments (IDEs), command-line tools, and version control systems to compose, edit, and deploy well-structured, web-ready documents and industry-standard documentation tools.
