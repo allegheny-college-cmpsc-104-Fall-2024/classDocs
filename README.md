@@ -43,7 +43,7 @@ For more information, refer to [Distribution Requirements: Learning Outcomes](ht
 - **Objective 3**: Build automated publishing pipelines to format, check, and ensure both the uniformity and quality of digital documents.
 - **Objective 4**: Identify and apply appropriate conventions of a variety of technical communities, tools, and computer languages to produce industry-consistent diagrams, summaries, and descriptions of technical topics or processes.
 
-## Required Hardware
+## Hardware
 A WIFI-ready device is necessary to follow along with course material. You will be instructed on which software to install on your device during the semester.
 
 ## Grading
