@@ -78,7 +78,7 @@ A WIFI-ready device is necessary to follow along with course material. You will 
 ### Grading Components
 - **Class Participation**: Regular participation in class activities is essential for your success in this course. Class participation will be based on your active participation in every class through in-class discussion and exercises. 
 - **Exams**: One mid-term exam administered in person. All work submitted for exam must be yours alone. Discussing exam questions with anyone during the exam period violates academic integrity expectations for this course. Note that no make-up exam will be given and absence from the exam will be recorded as a zero, unless the absence is excused by a documented emergency or religious observance.
-- **Laboratory Assignments**: There will be a total of 10 Lab assignments, due via Github Classroom by 11:59 PM on the given due date. **Late assignments will not be accepted**. Feel free to collaborate in discussing approaches and answers to the problems in small groups. However, each student should turn in a separate, individually prepared set of answers. 
+- **Laboratory Assignments**: There will be a total of 10 Lab assignments, due via Github Classroom by 11:59 PM on the given due date. **For late assignments, please refer to the tokens policy on the CIS department website**. Feel free to collaborate in discussing approaches and answers to the problems in small groups. However, each student should turn in a separate, individually prepared set of answers. 
 - **Final Project**: The final project requires you to apply the cumulative knowledge and skills from the course to produce a comprehensive set of documentation for a software project. This project will involve creating user manuals, technical architecture documents, and deploying these documents via a JAMstack-powered website. Additionally, you will set up a system that automatically updates and redeploys the documentation whenever changes are made. The project will be assessed on completeness, accuracy, adherence to industry standards, clarity, and the effectiveness of the automated update process. Students must submit individual work along with personal reflections on the process.
 
 ## Tentative Schedule (Subject to Change)
@@ -96,7 +96,12 @@ A WIFI-ready device is necessary to follow along with course material. You will 
 | **Metadata** | Week 14 | Assignment #10 due 12/6, Final Project due TBD |
 | **Final Project** | TBD | TBD |
 
-## Github Account and Lab Assignments
+## Technical Leaders
+Please feel free to visit and discuss course concepts with the instructor or Technical Leaders (TLs) whenever you need assistance.
+
+[Technical Leaders' office hours](https://www.cis.allegheny.edu/teaching/technicalleaders/)
+
+## [Github](https://github.com/)
 To participate in lab assignments and access course materials, you will need a GitHub account. Please follow these steps:
 
 1. **Sign Up for GitHub**
@@ -132,8 +137,8 @@ git commit -m "add meaningful commit message"
 git push
 ```
 
-## Discord
-- If you are already on the department's Discord server, you will be added to the course's Discord channel `#doc-engineering`.
+## [Discord](https://discord.com/)
+- If you are already on the department's Discord server, you will be added to the course's Discord channel `#document-engineering`.
 - If not, join the department's Discord server before you can be added to the course's channel.
 - During the first week, your name will be manually added to the class's Discord channel.
 
@@ -142,6 +147,9 @@ All materials provided in class will be accessible using the classDocs/ reposito
 Main site on GitHub: [classDocs](https://github.com/allegheny-college-cmpsc-104-Fall-2024/classDocs)
 
 ## Course Policies
+
+## Attendance and Tokens
+Please refer to the tokens policy on the CIS department website.
 
 ### Statement of Community
 Allegheny students and employees are committed to creating an inclusive, respectful, and safe residential learning community. [Learn more](https://sites.allegheny.edu/studentsuccess/academic-honor-program/).
