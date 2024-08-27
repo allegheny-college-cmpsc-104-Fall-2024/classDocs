@@ -74,7 +74,7 @@ A WIFI-ready device is necessary to follow along with course material. You will 
 ### Grading Components
 - **Class Participation**: Regular participation in class activities is essential for your success in this course. Class participation will be based on your active participation in every class through in-class discussion and exercises. 
 - **Exams**: One mid-term exam administered in person. All work submitted for exam must be yours alone. Discussing exam questions with anyone during the exam period violates academic integrity expectations for this course. Note that no make-up exam will be given and absence from the exam will be recorded as a zero, unless the absence is excused by a documented emergency or religious observance.
-- **Laboratory Assignments**: There will be a total of 10 Lab assignments, due via Github Classroom by 11:59 PM on the given due date. **For late assignments, please refer to the tokens policy on the CIS department website**. Feel free to collaborate in discussing approaches and answers to the problems in small groups. However, each student should turn in a separate, individually prepared set of answers. 
+- **Laboratory Assignments**: There will be a total of 10 Lab assignments, due via Github Classroom by 11:59 PM on the given due date. **For late assignments, please refer to the [tokens policy](###Tokens)**. Feel free to collaborate in discussing approaches and answers to the problems in small groups. However, each student should turn in a separate, individually prepared set of answers. 
 - **Final Project**: The final project requires you to apply the cumulative knowledge and skills from the course to produce a comprehensive set of documentation for a software project. This project will involve creating user manuals, technical architecture documents, and deploying these documents via a JAMstack-powered website. Additionally, you will set up a system that automatically updates and redeploys the documentation whenever changes are made. The project will be assessed on completeness, accuracy, adherence to industry standards, clarity, and the effectiveness of the automated update process. Students must submit individual work along with personal reflections on the process.
 
 ## Tentative Schedule (Subject to Change)
@@ -144,34 +144,91 @@ Main site on GitHub: [classDocs](https://github.com/allegheny-college-cmpsc-104-
 
 ## Course Policies
 
-## Attendance and Tokens
-Please refer to the tokens policy on the CIS department website.
+All courses in the Department of Computer and Information Science are governed by the department’s policies on attendance, assignment submission, and the use of Artificial Intelligence (AI) tools. All of the policies described in this document do not supersede any policies in the Allegheny College Faculty Handbook, the Allegheny College Student Handbook, or the Allegheny College Academic Bulletin.
 
-### Statement of Community
-Allegheny students and employees are committed to creating an inclusive, respectful, and safe residential learning community. [Learn more](https://sites.allegheny.edu/studentsuccess/academic-honor-program/).
+### Attendance
 
-### Educational Accommodations
-Students with disabilities should contact Student Accessibility and Support Services (SASS) at (814) 332-2898 as soon as possible to ensure timely accommodations. [Learn more](https://sites.allegheny.edu/studentaccessibility/).
+In the Allegheny College Department of Computer and Information Science (CIS), students are expected to come to class prepared, on time, and to stay engaged for the duration of the class period. This includes both class and lab sessions. This behavior is core to our shared departmental values and is in addition to the [college’s attendance policy](https://catalog.allegheny.edu/content.php?catoid=39&navoid=1250#class-attendance-policy).
 
-### Religious Observance
-If you need to miss class or reschedule a final examination due to a religious observance, speak to the professor well in advance. [Learn more](https://sites.allegheny.edu/religiouslife/religious-holy-days/).
+#### Preparedness
 
-### Academic Integrity
-Allegheny College has a student-run Honor Code designed to promote individual responsibility and integrity in academic affairs. [Learn more](https://sites.allegheny.edu/studentsuccess/academic-honor-program/).
+Coming to class prepared means coming with everything you need to engage in a class session. To satisfy basic expectations of CIS courses, this means, at minimum, that students must:
 
-### Mental Health and Wellness
-Mental health is a critical piece of the holistic human experience and influences academic success. Students are encouraged to prioritize their mental well-being and seek services and support as needed. [Learn more](https://sites.allegheny.edu/studentsuccess/wellness/).
+- arrive at class with a fully charged laptop
+- bring their laptop charger or a battery back so as to ensure that their laptop works throughout the entire class session
+- complete any pre-session work such as readings and preparatory assignments
 
-### Gator Success Grants
-The Gator Success Grant program offers additional financial assistance to help students offset the total cost of college attendance. [Learn more](https://studentsuccess.allegheny.edu).
+#### Attendance and Being “On Time”
 
-### Writing and Speaking Consultants
-Peer writing and speaking consultants are available in the Maytum Center for Student Success. [Learn more](https://studentsuccess.allegheny.edu).
+The method of tracking attendance is at the professor’s discretion, and may include (but is not limited to) roll call, visually confirming student presence, and entrance/exit tickets. 
 
-### Gator Day / Scholar Symposium
-Gator Day features educational opportunities and community-building events, while the Scholars Symposium celebrates student research and creative activities. [Learn more](https://ursca.allegheny.edu).
+One missed class or lab session counts as one absence. Coming to class/lab late, leaving early, or missing a large portion of a class/lab session will result in your being marked as “late” to class. Coming to class/lab unprepared may also result in being marked “late”. Being marked “late” to class three times during the course of a semester is equal to one absence.
 
-### Harassment, Discrimination, and Sexual Misconduct Reporting
-Allegheny College and Federal law (Title IX) prohibit discrimination and harassment based on sex in the College's programs and activities. [Learn more](https://sites.allegheny.edu/title-ix/).
+Students can have a certain number of absences without any impact to their grade. These accommodations are meant to cover illness and emergency, so you should always come to class if you are able to do so.
+
+The exact number of permitted absences may vary by course. As a general guideline, students cannot miss more than two weeks of class in total throughout the academic semester without receiving a letter grade reduction. For your course’s attendance policy, see the individual course syllabus.
+
+#### Engagement
+
+The term “engagement” or our expectation that students remain “engaged” can mean many things, often varying by course. Baseline behaviors that indicate engagement include:
+
+- participation in class activities and discussions
+- defined contribution to class sessions in full-class or group discussions
+- note-taking (physical or digital)
+- participating in course session attendance requirements
+- not participating in non-course related activities
+- not completing non-course related projects
+
+### Tokens
+
+Tokens allow students to receive extensions or resubmissions on assignments, quizzes, and tests, with no questions asked by the course instructor except either in the rare cases of severe and/or extenuating circumstances or in cases that violate this policy document or any College-approved policy.
+
+Students in the CIS department are expected to turn in assignments on time. “On time” means on or before the assignment’s due date. This means that an assignment cannot be turned in for credit after a due date, unless the student applies a token. Tokens must be applied via a Google Form at least 24 hours before the assignment deadline, with exceptions granted only for severe and/or extenuating circumstances.
+
+The number of tokens a student is allotted varies by the course level and topic (e.g., 100-level courses receive the most tokens and 400-level courses receive the fewest tokens). Additionally, the length of extension granted by a token may vary by course or assignment. Some assignments may allow you to use a token for either a resubmission or an extension, whereas other assignments may only permit extensions.
+
+| Course Level | Number of Tokens |
+|--------------|------------------|
+| 100          | 4                |
+| 200          | 3                |
+| 300          | 2                |
+| 400          | 2                |
+
+Tokens have specific windows where they are usable. In some cases, a token may be activated for the entire semester. In other cases, tokens may activate and expire during shorter windows, so that they are distributed throughout the semester, not all at once.
+
+In special circumstances, professors may allow students to earn additional tokens by completing specific objectives. See your course’s syllabus for more details about its token policy.
+
+### Illness and Emergencies
+
+An exception to the below: you should not come to class if you have a contagious illness like COVID-19, the flu, or a cold. If you have expended all your absences and tokens and are still sick with a contagious illness, you may contact your professor about options.  If your symptoms are mild or you are recovering from a respiratory illness, we recommend that you wear a mask to class.
+
+The accommodations provided by tokens and permitted absences are meant to cover extenuating circumstances like illness, emergency, and work. Professor must be informed of all athletic obligations at the beginning of the semester, or with as much notice as possible. If you are feeling healthy and well, you should make every effort to come to class on time and to complete assignments, rather than using absences and tokens you may need later. 
+
+These no-questions-asked accommodations are meant to protect student privacy, and to remove the additional effort of acquiring documentation under duress of illness or emergency. In addition, they allow the professor to remain focused on teaching rather than adjudicating excuses.
+
+If extenuating circumstances are severe enough to require more absences and tokens, you may contact your professor to discuss options. In most cases, however, a situation of this gravity warrants a request for a “Late Drop” or  “Incomplete” in the course, as the student will not have had adequate opportunity to learn the material.
+
+### Using Artificial Intelligence
+
+CIS department faculty recognize that use of artificial intelligence (AI) tools such as Github Copilot, GPT, and Claude has emerged as a professional skill set in the knowledge and practices our coursework covers. Department faculty maintain a permissive attitude toward these tools by recognizing that you can and will use them. We do so considering the following position:
+
+As a skill, using and correctly applying the results derived from AI tools is both context-based and discretion-worthy: these tools do not always provide correct or workable answers. Industry veterans and expert users run into many situations in which the responses these algorithms provide are plainly incorrect or unfit. In the context of department coursework, accepting an AI-generated answer wholesale or as a small part of an assignment may lead to less-than-satisfactory results in the context of both learning and deliverable quality.
+
+As a learner, your time at Allegheny is meant to impart the knowledge that enables you to judge the fitness of a given approach, regardless of its origin. In the same way that CIS students employ compilers, integrated development environments, and refactoring tools, the use of an AI tool is not a substitute for developing the fundamental skills that develop this awareness. Importantly, research demonstrates that relying on generated responses reduces a learner’s ability to durably learn these lessons and skills, suggesting that you should cautiously embrace the use of AI when you complete CIS coursework [Chen et al., 2024].
+
+In courses organized around fundamentals, instructors may prohibit students from using these tools or require students to use specific AI tools in order to teach the basic skills and concepts that students need to know to be successful in the field of CIS. Even in upper-level courses, assignments may feature requirements that decrease the applicability of a response generated with AI, thereby requiring you to thoughtfully consider the benefits, challenges, and fundamental limitations associated with the use of AI tools to generate content.
+
+If you are able to use the output of AI tools in your assignments, be prepared to support their use in ways including but not limited to:
+
+- citing instances where code has been generated and clearly defining the tools that generated them
+- providing descriptive commentary (including prompts) around generated code either in in-line comments or assignment documentation
+- considering improvements to the generated code, documenting specifics about your modifications and reasoning behind them
+- revising the generated code or documentation so as to ensure that it is more suitable for the purposes of your assignment
+
+Faculty do not intend these requirements as a “gotcha”; we assume the best of your effort. These guidelines follow industry best practices and prepare you for integrating current and future generations of these AI technologies into your computational practice.
+
+#### Reference
+
+Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles. 2024. Plagiarism in the Age of Generative AI: Cheating Method Change and Learning Loss in an Intro to CS Course. In Proceedings of the Eleventh ACM Conference on Learning @ Scale (L@S '24). Association for Computing Machinery, New York, NY, USA, 75–85. https://doi.org/10.1145/3657604.36620
 
 ---
