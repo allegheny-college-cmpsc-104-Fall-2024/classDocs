@@ -1,4 +1,3 @@
-
 Section 1
 ========================================
 
@@ -104,6 +103,26 @@ Use #. to auto-number the list items.
 
    This is still a comment.
 
+========  ========  ========
+Column A  Column B  Column C
+========  ========  ========
+row 1A    row 1B    row 1C
+row 2A    row 2B    row 2C
+========  ========  ========
+
++----------+----------+----------+
+| Column A | Column B | Column C |
++==========+==========+==========+
+| row 1A   | row 1B   | row 1C   |
++----------+----------+----------+
+| row 2A   | row 2B   | row 2C   |
++----------+----------+----------+
+
+.. csv-table::
+   :header: "Column A", "Column B", "Column C"
+
+   "row 1A", "row 1B", "row 1C"
+   "row 2A", "row 2B", "row 2C"
 
 .. image:: https://github.com/allegheny-college-cmpsc-104-Fall-2024/classDocs/blob/main/lessons/week9_rst/src/image1.jpg
 
