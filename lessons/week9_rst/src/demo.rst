@@ -60,8 +60,6 @@ Line Breaks: Leave a blank line
 .. tip::
   This step is dangerous! Be real sure about it!
 
-``code``
-
 ::
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. In viverra convallis
