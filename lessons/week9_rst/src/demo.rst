@@ -1,3 +1,14 @@
+
+Section 1
+========================================
+
+Section 2
+---------------------------------------------
+
+------------------
+Subsection 1.1
+------------------
+
 This is a *simple* reST document.
 
 This is a bullet point
@@ -28,16 +39,6 @@ Double asterisks to make it bold: **bold**
 Double-backticks for inline “code” formatting: ``code``
 
 Line Breaks: Leave a blank line
-
-Section 1
-========================================
-
-Section 2
----------------------------------------------
-
-------------------
-Subsection 1.1
-------------------
 
 `Python Docs <https://docs.python.org>`_
 
